@@ -13,7 +13,7 @@
 
 <br/>
 
-### Technical Skills
+### 🛠️ Technical Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ruby,rails,react,redux,express,nodejs,mongodb,aws,npm,postman,sqlite,html,css,git&perline=8)](https://skillicons.dev)
 
 <br/>
