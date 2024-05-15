@@ -1,6 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=Hi,%20I'm%20David👋&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 
- 🚀 I’m currently embarking on my journey as a software developer!  
+ 🚀 About Me: <br/>
+ I’m currently embarking on my journey as a software developer!  
  Like many others can relate, I didn't know what I wanted to pursue professionally.  
  I hopped around from field to field until I discovered the field of software developing and what it truly meant to become a software engineer.
  Now, I want to learn more about programming so that I can work towards my goal of becoming the best programmer that I can be 
@@ -9,7 +10,8 @@
  
  <br/>
  
- 🏞️ Fun facts: I've lived in Alaska and my favorite trail is Echo Lakes Trail in Lake Tahoe!
+ 🏞️ Fun Facts: <br/>
+ I've lived in Alaska and my favorite trail is Echo Lakes Trail in Lake Tahoe!
 
 <br/>
 
